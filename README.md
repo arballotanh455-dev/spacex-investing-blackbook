@@ -1,4 +1,4 @@
-    # SpaceX Investing Blackbook Landing Page
+# SpaceX Blackboo
 
 Sales landing page for the SpaceX Investing Blackbook offer.
 
